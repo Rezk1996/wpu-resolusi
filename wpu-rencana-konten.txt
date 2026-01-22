@@ -11,3 +11,5 @@ RENCANA KONTEN WPU
 - Inteview
 - Vlogs
 - Python
+- Tutorial Tailwind
+- Tutorial project Web ecommerce menggunakan react, tailwind, springboot, postgreSql
